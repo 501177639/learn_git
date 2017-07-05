@@ -7,3 +7,5 @@ Creating a new branch is quick.
 h
 
 阿凡达f
+hello
+hi
