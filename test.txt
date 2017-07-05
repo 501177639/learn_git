@@ -7,6 +7,11 @@ Creating a new branch is quick.
 h
 
 阿凡达f
+
 我是好人
 
 不对啊
+
+hello
+hi
+
